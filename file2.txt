@@ -1,1 +1,2 @@
-editted file2 from remote repo
+editted file2 from remote repo ~
+editted file1 from local
